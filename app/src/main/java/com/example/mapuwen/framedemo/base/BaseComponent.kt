@@ -1,7 +1,5 @@
 package com.example.mapuwen.framedemo.base
 
-import dagger.Component
-
 /**
  *  作者：MaPuWen
  *  时间：2018/7/27 15:56
